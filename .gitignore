@@ -35,4 +35,5 @@ build/
 
 ### Secure-connect ###
 /src/main/resources/secure-connect.zip
+/src/main/resources/betterreads-token.json
 /src/main/resources/application.yml
